@@ -7,7 +7,7 @@ A simple Express API with 3 endpoints deployed using Nginx reverse proxy on GCP.
 ## How to Run Locally
 
 ```bash
-git clone <repo>
+git clone https://github.com/emperorbj/personal-api.git
 cd personal-api
 npm install
 node index.js
@@ -31,5 +31,4 @@ node index.js
   ```
 
 ## Live URL
-
-http://your-server-ip
+http://bolaji-first.duckdns.org/
